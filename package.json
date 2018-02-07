@@ -1,0 +1,67 @@
+{
+  "name": "unomp-multi-hashing",
+  "version": "0.1.0",
+  "main": "multihashing",
+  "author": {
+    "name": "UNOMP",
+    "email": "steven@sigwo.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/androidcoin-project/node-multi-hashing.git"
+  },
+  "dependencies": {
+    "bindings": "*"
+  },
+  "keywords": [
+    "scrypt",
+    "scryptjane",
+    "script-n",
+    "x11",
+    "a5a",
+    "quark",
+    "keccak_hash",
+    "skein",
+    "bcrypt",
+    "keccak",
+    "blake",
+    "shavite",
+    "fugue",
+    "yescrypt",
+    "sha1",
+    "neoscrypt",
+    "decrypt"
+  ],
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "gypfile": true,
+  "description": "node-multi-hashing",
+  "bugs": {
+    "url": "https://github.com/androidcoin-project/node-multi-hashing/issues"
+  },
+  "gitHead": "6f1cd4838db76c82543e2fdfcc6e829cb48f98f7",
+  "homepage": "https://github.com/UNOMP/node-multi-hashing#readme",
+  "_id": "unomp-multi-hashing@0.1.0",
+  "_shasum": "7b42a0ce9d11f2a3ca603e7939ec96886b07f299",
+  "_from": "unomp-multi-hashing@*",
+  "_npmVersion": "2.14.2",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "sigwo",
+    "email": "steven@bemining.net"
+  },
+  "dist": {
+    "shasum": "7b42a0ce9d11f2a3ca603e7939ec96886b07f299",
+    "tarball": "https://registry.npmjs.org/unomp-multi-hashing/-/unomp-multi-hashing-0.1.0.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "sigwo",
+      "email": "steven@bemining.net"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/unomp-multi-hashing/-/unomp-multi-hashing-0.1.0.tgz",
+  "readme": "ERROR: No README data found!"
+}
